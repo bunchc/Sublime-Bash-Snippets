@@ -4,9 +4,9 @@
 #title          :$TM_FILENAME
 #description    :${1:TODO}
 #author         :${2:Cody Bunch}
-#date           :20170301
+#date           :$3
 #version        :
-#usage          :. $TM_FILEPATH/$TM_FILENAME
+#usage          :. $TM_FILEPATH
 #notes          :
 #============================================================================
 ]]></content>
